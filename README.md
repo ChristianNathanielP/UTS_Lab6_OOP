@@ -10,3 +10,8 @@ Program yang menampilkan tabungan yang berisi data diri dan saldo, ada pula yang
 ## 2. Anagram Cheker (NIM Genap)
 Tampilan Check Anagram: <br>
 ![image](https://github.com/ChristianNathanielP/UTS_Lab6_OOP/assets/114709222/f1fa713e-a9c0-47f0-8db9-7d46c5c42987)
+
+## 3. Employee Salary (NIM Genap)
+Tampilan sesuai soal: <br>
+![image](https://github.com/ChristianNathanielP/UTS_Lab6_OOP/assets/114709222/8729a4db-fa29-48fb-8ff3-84aa7282125a)
+
